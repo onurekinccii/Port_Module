@@ -1,0 +1,23 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "ffi",
+      "rootUri": "file:///C:/Users/Onur%20Ekinci/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "Port_Info",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.5"
+    }
+  ],
+  "generated": "2024-08-31T01:29:32.257914Z",
+  "generator": "pub",
+  "generatorVersion": "3.5.1",
+  "flutterRoot": "file:///C:/flutter/src/flutter",
+  "flutterVersion": "3.24.1",
+  "pubCache": "file:///C:/Users/Onur%20Ekinci/AppData/Local/Pub/Cache"
+}
